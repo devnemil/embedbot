@@ -1,0 +1,24 @@
+{
+  "name": "embedbot",
+  "version": "1.0.1",
+  "description": "A self-hosted discord.js bot to send advanced embeds.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnemil/embedbot"
+  },
+  "author": "Nemil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devnemil/embedbot/issues"
+  },
+  "homepage": "https://github.com/devnemil/embedbot#readme"
+}
