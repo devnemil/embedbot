@@ -108,4 +108,4 @@ client.on('message', message => {
     return message.channel.send(picembed)
   }});
 
-client.login(config.token);
+client.login(process.env.token);
