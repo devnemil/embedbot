@@ -1,5 +1,5 @@
   
 {
-  "prefix": "", //Enter the prefix here
-  "staffid": "" //Enter the Role ID of the Staff Role Here, People with this role and use all commands of the bot
+  "prefix": "", 
+  "staffid": "" 
 }
