@@ -109,6 +109,8 @@ client.on('message', message => {
   }});
 
 client.login(process.env.token);
+// uptime code
+const express = require('express');
 const app = express();
 const port = 3000;
 
